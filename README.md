@@ -1,2 +1,2 @@
 # orkom-oregano8051-bubblesort
-Project Akhir Mata Kuliag Organisasi dan Arsitektur Komputer - Simulasi Bubble Sort pada Oregano 8051.
+Project Akhir Mata Kuliah Organisasi dan Arsitektur Komputer - Simulasi Bubble Sort pada Oregano 8051.
